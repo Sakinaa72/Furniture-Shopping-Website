@@ -1,0 +1,45 @@
+   .heading{
+    text-align: center;
+    font-size: 3rem;
+    color: black;
+    padding: 2rem;
+    margin: 2rem 0;
+    background:#f8f7f5;
+
+  }
+
+ 
+header{
+  position: fixed;
+  top: 0; left:0; right:0;
+  padding: 2rem 9%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+  box-shadow: 0.5rem 1rem rgb(226, 218, 218);
+
+}
+.gallery-img{
+  height:260px ;
+  width: 360px;
+  
+}
+.gallery-items{
+
+  display: inline-block;
+}
+.container{
+  /* border: 2px solid red; */
+height: 100%;
+width: 1400px;
+margin: 10px 0px 0px 270px;
+}
+
+
+
+
+
+
+
+

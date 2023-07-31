@@ -1,0 +1,66 @@
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .grid-item {
+    background-color: #ddd;
+    padding: 10px;
+  }
+  
+
+  contact-us{
+    display: inline-block;
+    height: 20vh;
+    width: 25vh;
+    border: 2px solid rgb(0, 0, 7);
+    padding: 25px;
+    margin: 0px 50px 0px 80px;
+  }
+
+  #footer{
+    background-color: #f8f7f5;
+   width: 100%;
+   height: 40vh;
+   text-align: center;
+   box-sizing: border-box;
+   box-shadow: 0 1px 1px 0 rgba(191, 191, 191, 0.12);
+   text-align: left;
+   padding: 50px 50px; */
+   /* border: 2px solid yellow; */
+  }  
+  #address{
+  
+  } 
+  #my-account{
+    display: inline-block;
+    height: 20vh;
+    width: 25vh;
+    border: 2px solid blue;
+    padding: 25px;
+    margin: 0px 50px 0px 80px;
+  
+  }
+  #info{
+    display: inline-block;
+    height: 20vh;
+    width: 25vh;
+   border: 2px solid blueviolet;
+   padding: 25px;
+   margin: 0px 50px 0px 80px;
+  
+  
+  }
+  #updates{
+    display: inline-block;
+    height: 20vh;
+    width: 25vh;
+    border: 2px solid green;
+    padding: 25px;
+    margin: 0px 50px 0px 80px;
+  
